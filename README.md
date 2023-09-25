@@ -34,5 +34,4 @@ to get the desiring combined, standardized, and enriched final result in **out_p
    |NPI_x|	Entity Type Code_x| Provider Organization Name (Legal Business Name)_x| Provider First Line Business Practice Location Address	|City_x|
    Provider Business Practice Location Address Postal Code_x	|Provider Business Practice Location Address Telephone Number_x	|
    Authorized Official Last Name_x	|Authorized Official First Name_x	|Authorized Official Middle Name_x	|Authorized Official Telephone Number_x	|
-   Is Organization Subpart_x	| Zip5_x	|Address_x	|taxonomy_x	|fml |  
-   |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+   |---|---|---|---|---|---|---|---|---|---|---|
