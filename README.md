@@ -16,4 +16,16 @@ to get the desiring combined, standardized, and enriched final result in **out_p
    |---|---|---|---|---|---|---|---|---|
 
 
-aopa_name.xlsx
+2. aopa_name.xlsx
+
+   *column values*
+   |Clinic_name| ... |
+   |---|---|
+
+3. npi_cleaned.xlsx
+
+   *column values*
+   |NPI|	Entity Type Code|	Provider Organization Name (Legal Business Name)|	Provider First Line Business Practice Location Address|	City|	State2|	          Provider Business Practice Location Address Postal Code	|Provider Business Practice Location Address Telephone Number|	Zip5|	Address|	taxonomy|
+   |---|---|---|---|---|---|---|---|---|---|---|
+
+5. npi_addon.xlsx
