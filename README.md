@@ -9,7 +9,7 @@ to get the desiring combined, standardized, and enriched final result in **out_p
 
 ### Dataset Description
 1. aopa_cleaned.xlsx </br>
-   the column values includes Clinic_name	Address	City，State，Zipcode	Phone	FAX	Email	Website	Name	Other_info
+   1.1 column values: Clinic_name; Address; City，State，Zipcode; Phone; FAX; Email; Website; Name; Other_info
 
 
 aopa_name.xlsx
