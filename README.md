@@ -1,7 +1,7 @@
 # California-P-O
 
 In this repository, the calistfinal.ipynb is the main workbook integrating the following cleaned datasets from AOPA and NPI: </br>
-- aopa_cleaned.xlsx </br>
+- aopa_cleaned.xlsx (manual market research included compared to aopa_name.xlsx) </br>
 - npi_cleaned.xlsx </br>
 - npi_addon.xlsx </br>
 
