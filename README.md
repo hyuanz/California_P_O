@@ -8,7 +8,21 @@ In this repository, **calistfinal.ipynb** is the main workbook integrating the f
 
 to get the desiring combined, standardized, and enriched final result in **out_put_calist.xlsx** </br>
 
-### Dataset Description
+### Output Dataset Description
+1. output_calist.xlsx </br>
+
+   *column values*
+   |Clinic_name|	Address|	City|	State|	ZipCode|	Phone|	Phone_y|	FAX|	Email	|Website|	Name	|Other_info	|...|	fml|
+   |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+2. output_cabyzip.xlsx </br>
+
+   *column values*
+   |Clinic_name|	Address|	City|	State|	ZipCode|	Phone|	Phone_y|	FAX|	Email	|Website|	Name	|Other_info	|...|	fml|
+   |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+
+### Input Dataset Description
 1. aopa_cleaned.xlsx </br>
 
    *column values*
